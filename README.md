@@ -4,4 +4,4 @@ Developed a responsive 3D Coffee landing page website using HTML, CSS and JavaSc
 ## Demo
 Click [here](https://vinesh-yokentiran.github.io/3D-Coffee-Responsive-Landing-Page/) for a demo of this landing page hosted on Github pages. 
 
-![alt text](https://github.com/vinesh-yokentiran/3D-Coffee-Responsive-Landing-Page/blob/[main]/coffee preview.png?raw=true)
+![website preview](/coffeepreview.PNG)
